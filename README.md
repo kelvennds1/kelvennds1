@@ -16,7 +16,7 @@
 
 ###
 
-<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kelvennds1&theme=bear&background=000&border=30A3DC&dates=FF"></a>
+<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kelvennds1&theme=bear&background=000&border=30A3DC&dates=FF"></a></center>
     
 
 ###
