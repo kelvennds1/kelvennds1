@@ -7,7 +7,6 @@
   <a href="https://www.instagram.com/kelvenbss__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" height="25" alt="Instagram logo"/>
   </a>
-  
 </div>
 
 ###
@@ -68,3 +67,4 @@
 
 
 ###
+![](https://komarev.com/ghpvc/?username=your-github-username)
