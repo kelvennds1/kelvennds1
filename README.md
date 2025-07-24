@@ -24,7 +24,7 @@
 
 ###
     
-<p align="left">My name is Kelven Cristian, I am a Computer Science student and for the last 3 years, I have dedicated myself to learning web development, using different stacks and adapting to the business model and needs of each project.<br><br> At the beginning of my career, I am having the opportunity to be part of the IT team at Viva Previdencia (Private pension foundation in Brazil). <br><br>I have strong skills in Computational Logic, Python, Django, HTML and CSS, MySQL. And I am developing knowledge in Angular, C#, Java, Continuous Delivery Cycles, Git and Testing.<br><br>I am Always looking to learn and stay up to date with the latest trends and technologies in the market. I am passionate about software development and I constantly seek challenges that allow me to expand my knowledge and skills.<br><br>
+<p align="left">My name is Kelven Cristian, I am a Computer Science student and for the last 3 years, I have dedicated myself to learning web development, using different stacks and adapting to the business model and needs of each project. <br><br>I have strong skills in Computational Logic, Python, Django, HTML and CSS, React, MySQL, Postgres (and SUpabase), Docker, Nginx, CI/CD and AWS . And I am developing knowledge in Angular, Java and Testing.<br><br>I am Always looking to learn and stay up to date with the latest trends and technologies in the market. I am passionate about software development and I constantly seek challenges that allow me to expand my knowledge and skills.<br><br>
    
 
 ###
